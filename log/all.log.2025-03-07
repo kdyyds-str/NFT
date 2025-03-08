@@ -1,0 +1,18 @@
+2025-03-07 20:16:01,725 - [line:134] - INFO: 检查配置...
+2025-03-07 20:16:01,733 - [line:139] - INFO: ./config.yaml
+2025-03-07 20:16:01,733 - [line:140] - INFO: {'CONFIG': [{'id': 1, 'name': 'background', 'directory': 'Background', 'required': True, 'rarity_weights': 'random'}, {'id': 2, 'name': 'Clothes', 'directory': 'Clothes', 'required': True, 'rarity_weights': 'None'}, {'id': 3, 'name': 'Face', 'directory': 'Face', 'required': True, 'rarity_weights': 'None'}, {'id': 4, 'name': 'Eye', 'directory': 'Eye', 'required': True, 'rarity_weights': 'None'}, {'id': 5, 'name': 'Tattoo', 'directory': 'Tattoo', 'required': False, 'rarity_weights': 'None'}, {'id': 6, 'name': 'JEWELRY1', 'directory': 'JEWELRY1', 'required': False, 'rarity_weights': 'None'}, {'id': 7, 'name': 'JEWELRY2', 'directory': 'JEWELRY2', 'required': False, 'rarity_weights': 'None'}, {'id': 8, 'name': 'JEWELRY3', 'directory': 'JEWELRY3', 'required': False, 'rarity_weights': 'None'}], 'drop_dup': False, 'CONFIG_JSON_NAME': 'Greek-Mythical-Panda#', 'CONFIG_JSON_URL': 'https://ipfs.io/ipfs/Qmd56C6tsi4SAzzMwhZDGogsUAZfzBXd6BX2BX5gmNwhew', 'CONFIG_JSON_DESCRIPTION': 'The Greek Mythical Panda is a collection of 100 NFT digital identities with accessory backgrounds generated entirely from random seeds. Let you experience random art.'}
+2025-03-07 20:16:01,734 - [line:141] - INFO: 检查素材...
+2025-03-07 20:16:01,734 - [line:4] - WARNING: Aphrodite.jpg不为png格式可能发生合成错误!(请保持asset里文件夹都为png格式)
+2025-03-07 20:16:01,735 - [line:4] - WARNING: Demeter, goddess of agriculture.jpg不为png格式可能发生合成错误!(请保持asset里文件夹都为png格式)
+2025-03-07 20:16:01,735 - [line:4] - WARNING: God Hestia.jpg不为png格式可能发生合成错误!(请保持asset里文件夹都为png格式)
+2025-03-07 20:16:01,736 - [line:4] - WARNING: Hera.jpg不为png格式可能发生合成错误!(请保持asset里文件夹都为png格式)
+2025-03-07 20:16:01,739 - [line:144] - INFO: 您可以创建总共184320个不同的NFT
+2025-03-07 20:16:01,740 - [line:145] - INFO: 您希望创建多少个NFT？输入一个大于0的数字:
+2025-03-07 20:17:09,748 - [line:150] - INFO: 创建10个NFT
+2025-03-07 20:17:09,749 - [line:151] - INFO: 您想把该NFT项目命名为:
+2025-03-07 20:17:20,181 - [line:153] - INFO: 存储NFT文件夹名:test1
+2025-03-07 20:17:20,182 - [line:154] - INFO: 开始生成...
+2025-03-07 20:17:22,046 - [line:116] - INFO: 生成第 10 张图片, 10张不同
+2025-03-07 20:17:22,048 - [line:156] - INFO: 保存元数据...
+2025-03-07 20:17:22,054 - [line:158] - INFO: 生成成功!
+2025-03-07 20:17:22,054 - [line:159] - INFO: --------------------------------------------------------------------------------------------

@@ -1,0 +1,10 @@
+2025-03-08 20:37:07,663 - [line:134] - INFO: 检查配置...
+2025-03-08 20:37:07,670 - [line:139] - INFO: ./config.yaml
+2025-03-08 20:37:07,671 - [line:140] - INFO: {'CONFIG': [{'id': 1, 'name': 'background', 'directory': 'Background', 'required': True, 'rarity_weights': 'random'}, {'id': 2, 'name': 'Clothes', 'directory': 'Clothes', 'required': True, 'rarity_weights': 'None'}, {'id': 3, 'name': 'Face', 'directory': 'Face', 'required': True, 'rarity_weights': 'None'}, {'id': 4, 'name': 'Eye', 'directory': 'Eye', 'required': True, 'rarity_weights': 'None'}, {'id': 5, 'name': 'Tattoo', 'directory': 'Tattoo', 'required': False, 'rarity_weights': 'None'}, {'id': 6, 'name': 'JEWELRY1', 'directory': 'JEWELRY1', 'required': False, 'rarity_weights': 'None'}, {'id': 7, 'name': 'JEWELRY2', 'directory': 'JEWELRY2', 'required': False, 'rarity_weights': 'None'}, {'id': 8, 'name': 'JEWELRY3', 'directory': 'JEWELRY3', 'required': False, 'rarity_weights': 'None'}], 'drop_dup': False, 'CONFIG_JSON_NAME': 'Greek-Mythical-Panda#', 'CONFIG_JSON_URL': 'https://ipfs.io/ipfs/Qmd56C6tsi4SAzzMwhZDGogsUAZfzBXd6BX2BX5gmNwhew', 'CONFIG_JSON_DESCRIPTION': 'The Greek Mythical Panda is a collection of 100 NFT digital identities with accessory backgrounds generated entirely from random seeds. Let you experience random art.'}
+2025-03-08 20:37:07,671 - [line:141] - INFO: 检查素材...
+2025-03-08 20:37:07,671 - [line:4] - WARNING: Aphrodite.jpg不为png格式可能发生合成错误!(请保持asset里文件夹都为png格式)
+2025-03-08 20:37:07,672 - [line:4] - WARNING: Demeter, goddess of agriculture.jpg不为png格式可能发生合成错误!(请保持asset里文件夹都为png格式)
+2025-03-08 20:37:07,672 - [line:4] - WARNING: God Hestia.jpg不为png格式可能发生合成错误!(请保持asset里文件夹都为png格式)
+2025-03-08 20:37:07,672 - [line:4] - WARNING: Hera.jpg不为png格式可能发生合成错误!(请保持asset里文件夹都为png格式)
+2025-03-08 20:37:07,675 - [line:144] - INFO: 您可以创建总共184320个不同的NFT
+2025-03-08 20:37:07,675 - [line:145] - INFO: 您希望创建多少个NFT？输入一个大于0的数字:
